@@ -1,2 +1,3 @@
-bonjour,
-je m'appele vitoria et toi?
+bonjour!
+Je vais etudier R aujourd'hui
+et toi?
